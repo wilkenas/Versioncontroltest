@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void newMethod() {
         // comment
-        int i = 0;
+        int i = 1;
     }
 }
