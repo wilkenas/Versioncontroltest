@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void doWork() {
 
-        int i = 1;
+        int i = 2;
     }
 
 }
