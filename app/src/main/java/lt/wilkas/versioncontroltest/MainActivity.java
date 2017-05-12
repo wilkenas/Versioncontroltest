@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void doWork() {
 
-        int i = 1;
+        int i = 1  ;
     }
 
     private String hello(String helloString, int index){
