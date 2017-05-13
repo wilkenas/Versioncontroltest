@@ -35,4 +35,8 @@ public class MainActivity extends AppCompatActivity {
         // all good?
 
     }
+
+    private void AddedAnotherEmptyMethod(){
+        //now what? :)
+    }
 }
