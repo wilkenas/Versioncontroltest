@@ -21,12 +21,6 @@ public class MainActivity extends AppCompatActivity {
         view.setText(h);
     }
 
-    public void doWork() {
-
-        int i = 1;
-
-    }
-
     private String hello(String helloString, int index) {
         if (index == hello.length) {
             return "";
