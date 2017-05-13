@@ -39,4 +39,10 @@ public class MainActivity extends AppCompatActivity {
     private void AddedAnotherEmptyMethod(){
         //now what? :)
     }
+
+    private String returnPawliux() {
+
+        return new String("paxliux");
+
+    }
 }
