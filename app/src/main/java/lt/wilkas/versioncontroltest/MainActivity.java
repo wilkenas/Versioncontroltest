@@ -23,15 +23,22 @@ public class MainActivity extends AppCompatActivity {
 
     public void doWork() {
 
-        int i = 1  ;
+        int i = 1;
+
     }
 
-    private String hello(String helloString, int index){
-        if(index == hello.length) {
+    private String hello(String helloString, int index) {
+        if (index == hello.length) {
             return "";
         } else {
-            helloString = hello[index] + hello(helloString, index+1);
+            helloString = hello[index] + hello(helloString, index + 1);
         }
         return helloString;
+    }
+
+    private void AddedNewEmptyMethod() {
+
+        // all good?
+
     }
 }
