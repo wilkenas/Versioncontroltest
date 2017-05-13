@@ -45,4 +45,8 @@ public class MainActivity extends AppCompatActivity {
         return new String("paxliux");
 
     }
+
+    private String returnReturnedPawliux(){
+        return returnPawliux();
+    }
 }
